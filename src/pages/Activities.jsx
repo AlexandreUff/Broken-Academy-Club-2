@@ -18,8 +18,8 @@ export default function Activities(){
                 {nome:"Panturrilha (30 x 3)",url:'https://www.mundoboaforma.com.br/wp-content/uploads/2021/03/Panturrilha-em-pe-no-aparelho.gif'}
             ]} />
             <ListActs titulo="Dia 3 (Costas e Bíceps)" exercicios={[
-                {nome:"Barra Fixa Pronada (max x 3)",url:'https://www.g23distribuidora.com.br/image/cache/catalog/22-09/22-09x3/barra-fixa-porta-multifuncional-portatil-exercicios-crossfit-D_NQ_NP_619074-MLB26085277639_092017-F-500x500.png'},
-                {nome:"Barra Fixa Supinada (Max x 3)",url:'https://www.musculacao.net/wp-content/uploads/2014/07/Tra%C3%A7%C3%A3o-na-barra-fixa-pegada-supinada.jpg'},
+                {nome:"Remada Serrote Unilateral (12 x 3)",url:'https://www.hipertrofia.org/blog/wp-content/uploads/2018/09/remada-serrote-musculos-trabalhados.jpg'},
+                {nome:"Crucifixo Inverso em Pé Curvado (12 x 3)",url:'https://dicasdemusculacao.org/wp-content/uploads/2018/11/exercicio-para-os-ombros-crucifixo-invertido-halteres-.jpg'},
                 {nome:"Bíceps Rosca Direta (10 x 3)",url:'https://grandeatleta.com.br/wp-content/uploads/2018/07/rosca-direta-barra-reta-ou-w.jpg'},
                 {nome:"Bíecps Martelo (10 x 3)",url:'https://i.pinimg.com/600x315/c6/55/f3/c655f344ae0d092b345cbadd40fbf97c.jpg'}
             ]} />
